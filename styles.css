@@ -1,0 +1,26 @@
+
+
+.text{
+  text-align: left;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: cyan;
+}
+
+body {
+  font-family: 'Helvetica neue', Comic sans-serif;
+  font-size: 16px;
+  background: grey;
+}
+
+}
+.button {
+  color: yellow
+}
+
+
+marquee{
+  color: deeppink;
+  font-size: 20px;
+  font-family:   font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-style: italic;
+}
